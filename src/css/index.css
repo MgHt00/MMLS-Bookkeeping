@@ -1,1 +1,5 @@
 @import url(../../vendor/bootstrap/css/bootstrap.min.css);
+
+[data-bs-theme="dark"] {
+  color: whitesmoke;
+}
