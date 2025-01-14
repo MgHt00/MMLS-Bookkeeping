@@ -1,0 +1,3 @@
+backups/sql/*.*
+backups/.DS_Store
+docs/logic/*.*
