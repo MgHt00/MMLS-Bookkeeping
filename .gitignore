@@ -1,3 +1,4 @@
+backups/*.*
 backups/sql/*.*
 backups/.DS_Store
-docs/logic/*.*
+docs/logic/tables/*.*
